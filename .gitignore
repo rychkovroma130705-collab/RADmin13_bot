@@ -1,0 +1,15 @@
+# Секреты
+.env
+
+# База данных
+bot.db
+
+# Логи
+*.log
+
+# Настройки IDE
+.idea/
+
+__pycache__/
+*.pyc
+# git rm --cached .env bot.db spam.log .idea/encodings.xml
